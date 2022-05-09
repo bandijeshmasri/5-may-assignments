@@ -1,0 +1,4 @@
+s={1:['abhi','female','bsc',9],2:['siri','female','b.com',10],3:['raj','male','b.a',8],4:['rao','male','bsc',8]}
+x=int(input())
+s.pop(x)
+print(s)
